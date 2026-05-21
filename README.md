@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-a-happy-man/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Die a Happy Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-a-happy-man/) |
+| **Get License** | [Official Music Licensing for Die a Happy Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-a-happy-man/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `945793760a8a5cb4194e16739fc556d6db19dcaa9272cdf5c8c07a7f387f8a4b` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
