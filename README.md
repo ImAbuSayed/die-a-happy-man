@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-a-happy-man/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Die a Happy Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-a-happy-man/) |
+| **Get License** | [Music Rights & Licensing for Die a Happy Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-a-happy-man/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 908f36229de95a4fb3e5c970f042b6795349d2a7
+> Got my hands on the wheel, but my mind is on you
+> Every mile down this highway, I'm craving the truth
+> There's a fire in your eyes that I'm dying to feed
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
